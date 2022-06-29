@@ -4,3 +4,4 @@ Site de receitas Fruto&Fruta criado apenas com HTML e CSS para aprender sobre os
 ##
 Link do Site: https://eduardosmatos.github.io/ArquiteturaCSS/
 ##
+(https://raw.githubusercontent.com/eduardosmatos/ArquiteturaCSS/blob/main/Site%20Fruta%26Fruto.png)

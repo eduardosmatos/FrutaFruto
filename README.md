@@ -1,7 +1,7 @@
 <h1 align="center"> Fruto&Fruta 🍉</h1>
 
 <p align="center">Site de receitas Fruto&Fruta criado para aprender mais sobre os conceitos de Arquitetura CSS.</p>
-<p align="center">Projeto elaborado através do curso da Alura de HTML e CSS..</p>
+<p align="center">Projeto elaborado através do curso da Alura de HTML e CSS.</p>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>

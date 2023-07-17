@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img align="center" alt="Du-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### 🔗 Link do Projeto: https://eduardosmatos.github.io/ArquiteturaCSS/
+### 🔗 Link do Projeto: https://eduardosmatos.github.io/FrutaFruto/
 
 ### 🖼️ Imagem do Projeto
 ![Site Fruta Fruto](https://user-images.githubusercontent.com/27296909/176512069-b14dd569-fb3f-4bfe-8968-da2b22f5bbf8.png)
